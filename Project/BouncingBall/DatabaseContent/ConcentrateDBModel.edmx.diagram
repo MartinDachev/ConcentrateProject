@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="2.0" xmlns:edmx="http://schemas.microsoft.com/ado/2008/10/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2008/10/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="5464bda11f48436a91b55f214c6194d8" Name="Diagram1">
+        <EntityTypeShape EntityType="sql369565Model.bouncingballscore" Width="1.5" PointX="3" PointY="2" IsExpanded="true" />
+        <EntityTypeShape EntityType="sql369565Model.bulbtestscore" Width="1.5" PointX="3" PointY="4.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="sql369565Model.memorytestorderscore" Width="1.5" PointX="3" PointY="7.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="sql369565Model.mindtestscore" Width="1.5" PointX="3" PointY="10" IsExpanded="true" />
+        <EntityTypeShape EntityType="sql369565Model.mindtestscoreseasy" Width="1.5" PointX="3" PointY="12.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="sql369565Model.mindtestscoreshard" Width="1.5" PointX="3" PointY="15" IsExpanded="true" />
+        <EntityTypeShape EntityType="sql369565Model.mindtestscoresmedium" Width="1.5" PointX="3" PointY="17.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="sql369565Model.mindtestscoresveryhard" Width="1.5" PointX="3" PointY="20.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="sql369565Model.reactiontestscore" Width="1.5" PointX="3" PointY="22.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="sql369565Model.user" Width="1.5" PointX="0.75" PointY="11.25" IsExpanded="true" />
+        <AssociationConnector Association="sql369565Model.bouncingballscores_ibfk_1" ManuallyRouted="false" />
+        <AssociationConnector Association="sql369565Model.bulbtestscores_ibfk_1" ManuallyRouted="false" />
+        <AssociationConnector Association="sql369565Model.fk_Permemorytestorder" ManuallyRouted="false" />
+        <AssociationConnector Association="sql369565Model.mindtestscores_ibfk_1" ManuallyRouted="false" />
+        <AssociationConnector Association="sql369565Model.mindtestscoreseasy_ibfk_1" ManuallyRouted="false" />
+        <AssociationConnector Association="sql369565Model.mindtestscoreshard_ibfk_1" ManuallyRouted="false" />
+        <AssociationConnector Association="sql369565Model.mindtestscoresmedium_ibfk_1" ManuallyRouted="false" />
+        <AssociationConnector Association="sql369565Model.mindtestscoresveryhard_ibfk_1" ManuallyRouted="false" />
+        <AssociationConnector Association="sql369565Model.reactiontestscores_ibfk_1" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

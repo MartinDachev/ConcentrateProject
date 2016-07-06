@@ -1,0 +1,171 @@
+C:\Users\Martin\Desktop\projects_newer\BouncingBall\MindTest2\MindTest2\bin\x86\Release\MindTest2.exe.config
+C:\Users\Martin\Desktop\projects_newer\BouncingBall\MindTest2\MindTest2\bin\x86\Release\MindTest2.exe
+C:\Users\Martin\Desktop\projects_newer\BouncingBall\MindTest2\MindTest2\bin\x86\Release\MindTest2.pdb
+C:\Users\Martin\Desktop\projects_newer\BouncingBall\MindTest2\MindTest2\bin\x86\Release\MindTest2.xml
+C:\Users\Martin\Desktop\projects_newer\BouncingBall\MindTest2\MindTest2\bin\x86\Release\DatabaseContent.exe
+C:\Users\Martin\Desktop\projects_newer\BouncingBall\MindTest2\MindTest2\bin\x86\Release\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Martin\Desktop\projects_newer\BouncingBall\MindTest2\MindTest2\bin\x86\Release\EntityFramework.dll
+C:\Users\Martin\Desktop\projects_newer\BouncingBall\MindTest2\MindTest2\bin\x86\Release\DatabaseContent.pdb
+C:\Users\Martin\Desktop\projects_newer\BouncingBall\MindTest2\MindTest2\bin\x86\Release\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Martin\Desktop\projects_newer\BouncingBall\MindTest2\MindTest2\bin\x86\Release\EntityFramework.xml
+C:\Users\Martin\Desktop\projects_newer\BouncingBall\MindTest2\MindTest2\obj\x86\Release\MindTest2.vbprojResolveAssemblyReference.cache
+C:\Users\Martin\Desktop\projects_newer\BouncingBall\MindTest2\MindTest2\obj\x86\Release\MindTest2.AboutTheTestForm.resources
+C:\Users\Martin\Desktop\projects_newer\BouncingBall\MindTest2\MindTest2\obj\x86\Release\MindTest2.EasyLevel.resources
+C:\Users\Martin\Desktop\projects_newer\BouncingBall\MindTest2\MindTest2\obj\x86\Release\MindTest2.VeryHardLevel.resources
+C:\Users\Martin\Desktop\projects_newer\BouncingBall\MindTest2\MindTest2\obj\x86\Release\MindTest2.LevelHard.resources
+C:\Users\Martin\Desktop\projects_newer\BouncingBall\MindTest2\MindTest2\obj\x86\Release\MindTest2.MindTestMainForm.resources
+C:\Users\Martin\Desktop\projects_newer\BouncingBall\MindTest2\MindTest2\obj\x86\Release\MindTest2.MediumLevel.resources
+C:\Users\Martin\Desktop\projects_newer\BouncingBall\MindTest2\MindTest2\obj\x86\Release\MindTest2.Resources.resources
+C:\Users\Martin\Desktop\projects_newer\BouncingBall\MindTest2\MindTest2\obj\x86\Release\MindTest2.vbproj.GenerateResource.Cache
+C:\Users\Martin\Desktop\projects_newer\BouncingBall\MindTest2\MindTest2\obj\x86\Release\MindTest2.exe
+C:\Users\Martin\Desktop\projects_newer\BouncingBall\MindTest2\MindTest2\obj\x86\Release\MindTest2.xml
+C:\Users\Martin\Desktop\projects_newer\BouncingBall\MindTest2\MindTest2\obj\x86\Release\MindTest2.pdb
+G:\BouncingBall\MindTest2\MindTest2\bin\x86\Release\MindTest2.exe.config
+G:\BouncingBall\MindTest2\MindTest2\bin\x86\Release\MindTest2.exe
+G:\BouncingBall\MindTest2\MindTest2\bin\x86\Release\MindTest2.pdb
+G:\BouncingBall\MindTest2\MindTest2\bin\x86\Release\MindTest2.xml
+G:\BouncingBall\MindTest2\MindTest2\bin\x86\Release\DatabaseContent.exe
+G:\BouncingBall\MindTest2\MindTest2\bin\x86\Release\EntityFramework.dll
+G:\BouncingBall\MindTest2\MindTest2\bin\x86\Release\DatabaseContent.pdb
+G:\BouncingBall\MindTest2\MindTest2\bin\x86\Release\Microsoft.VisualBasic.PowerPacks.xml
+G:\BouncingBall\MindTest2\MindTest2\bin\x86\Release\EntityFramework.xml
+G:\BouncingBall\MindTest2\MindTest2\obj\x86\Release\MindTest2.vbprojResolveAssemblyReference.cache
+G:\BouncingBall\MindTest2\MindTest2\obj\x86\Release\MindTest2.AboutTheTestForm.resources
+G:\BouncingBall\MindTest2\MindTest2\obj\x86\Release\MindTest2.EasyLevel.resources
+G:\BouncingBall\MindTest2\MindTest2\obj\x86\Release\MindTest2.VeryHardLevel.resources
+G:\BouncingBall\MindTest2\MindTest2\obj\x86\Release\MindTest2.LevelHard.resources
+G:\BouncingBall\MindTest2\MindTest2\obj\x86\Release\MindTest2.MindTestMainForm.resources
+G:\BouncingBall\MindTest2\MindTest2\obj\x86\Release\MindTest2.MediumLevel.resources
+G:\BouncingBall\MindTest2\MindTest2\obj\x86\Release\MindTest2.Resources.resources
+G:\BouncingBall\MindTest2\MindTest2\obj\x86\Release\MindTest2.vbproj.GenerateResource.Cache
+G:\BouncingBall\MindTest2\MindTest2\obj\x86\Release\MindTest2.exe
+G:\BouncingBall\MindTest2\MindTest2\obj\x86\Release\MindTest2.xml
+G:\BouncingBall\MindTest2\MindTest2\obj\x86\Release\MindTest2.pdb
+C:\Users\Dimitar\Desktop\961\Project\BouncingBall\MindTest2\MindTest2\obj\x86\Release\MindTest2.vbprojResolveAssemblyReference.cache
+C:\Users\Dimitar\Desktop\961\Project\BouncingBall\MindTest2\MindTest2\obj\x86\Release\MindTest2.AboutTheTestForm.resources
+C:\Users\Dimitar\Desktop\961\Project\BouncingBall\MindTest2\MindTest2\obj\x86\Release\MindTest2.EasyLevel.resources
+C:\Users\Dimitar\Desktop\961\Project\BouncingBall\MindTest2\MindTest2\obj\x86\Release\MindTest2.VeryHardLevel.resources
+C:\Users\Dimitar\Desktop\961\Project\BouncingBall\MindTest2\MindTest2\obj\x86\Release\MindTest2.LevelHard.resources
+C:\Users\Dimitar\Desktop\961\Project\BouncingBall\MindTest2\MindTest2\obj\x86\Release\MindTest2.MindTestMainForm.resources
+C:\Users\Dimitar\Desktop\961\Project\BouncingBall\MindTest2\MindTest2\obj\x86\Release\MindTest2.MediumLevel.resources
+C:\Users\Dimitar\Desktop\961\Project\BouncingBall\MindTest2\MindTest2\obj\x86\Release\MindTest2.Resources.resources
+C:\Users\Dimitar\Desktop\961\Project\BouncingBall\MindTest2\MindTest2\obj\x86\Release\MindTest2.vbproj.GenerateResource.Cache
+C:\Users\Dimitar\Desktop\961\Project\BouncingBall\MindTest2\MindTest2\obj\x86\Release\MindTest2.exe
+C:\Users\Dimitar\Desktop\961\Project\BouncingBall\MindTest2\MindTest2\obj\x86\Release\MindTest2.xml
+C:\Users\Dimitar\Desktop\961\Project\BouncingBall\MindTest2\MindTest2\obj\x86\Release\MindTest2.pdb
+C:\Users\Dimitar\Desktop\961\Project\BouncingBall\MindTest2\MindTest2\bin\x86\Release\MindTest2.exe.config
+C:\Users\Dimitar\Desktop\961\Project\BouncingBall\MindTest2\MindTest2\bin\x86\Release\MindTest2.exe
+C:\Users\Dimitar\Desktop\961\Project\BouncingBall\MindTest2\MindTest2\bin\x86\Release\MindTest2.pdb
+C:\Users\Dimitar\Desktop\961\Project\BouncingBall\MindTest2\MindTest2\bin\x86\Release\MindTest2.xml
+C:\Users\Dimitar\Desktop\961\Project\BouncingBall\MindTest2\MindTest2\bin\x86\Release\DatabaseContent.exe
+C:\Users\Dimitar\Desktop\961\Project\BouncingBall\MindTest2\MindTest2\bin\x86\Release\EntityFramework.dll
+C:\Users\Dimitar\Desktop\961\Project\BouncingBall\MindTest2\MindTest2\bin\x86\Release\DatabaseContent.pdb
+C:\Users\Dimitar\Desktop\961\Project\BouncingBall\MindTest2\MindTest2\bin\x86\Release\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Dimitar\Desktop\961\Project\BouncingBall\MindTest2\MindTest2\bin\x86\Release\EntityFramework.xml
+C:\Users\Martin\Desktop\961 - Copy\Project\BouncingBall\MindTest2\MindTest2\bin\x86\Release\MindTest2.exe.config
+C:\Users\Martin\Desktop\961 - Copy\Project\BouncingBall\MindTest2\MindTest2\bin\x86\Release\MindTest2.exe
+C:\Users\Martin\Desktop\961 - Copy\Project\BouncingBall\MindTest2\MindTest2\bin\x86\Release\MindTest2.pdb
+C:\Users\Martin\Desktop\961 - Copy\Project\BouncingBall\MindTest2\MindTest2\bin\x86\Release\MindTest2.xml
+C:\Users\Martin\Desktop\961 - Copy\Project\BouncingBall\MindTest2\MindTest2\bin\x86\Release\DatabaseContent.exe
+C:\Users\Martin\Desktop\961 - Copy\Project\BouncingBall\MindTest2\MindTest2\bin\x86\Release\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Martin\Desktop\961 - Copy\Project\BouncingBall\MindTest2\MindTest2\bin\x86\Release\EntityFramework.dll
+C:\Users\Martin\Desktop\961 - Copy\Project\BouncingBall\MindTest2\MindTest2\bin\x86\Release\DatabaseContent.pdb
+C:\Users\Martin\Desktop\961 - Copy\Project\BouncingBall\MindTest2\MindTest2\bin\x86\Release\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Martin\Desktop\961 - Copy\Project\BouncingBall\MindTest2\MindTest2\bin\x86\Release\EntityFramework.xml
+C:\Users\Martin\Desktop\961 - Copy\Project\BouncingBall\MindTest2\MindTest2\obj\x86\Release\MindTest2.vbprojResolveAssemblyReference.cache
+C:\Users\Martin\Desktop\961 - Copy\Project\BouncingBall\MindTest2\MindTest2\obj\x86\Release\MindTest2.AboutTheTestForm.resources
+C:\Users\Martin\Desktop\961 - Copy\Project\BouncingBall\MindTest2\MindTest2\obj\x86\Release\MindTest2.EasyLevel.resources
+C:\Users\Martin\Desktop\961 - Copy\Project\BouncingBall\MindTest2\MindTest2\obj\x86\Release\MindTest2.VeryHardLevel.resources
+C:\Users\Martin\Desktop\961 - Copy\Project\BouncingBall\MindTest2\MindTest2\obj\x86\Release\MindTest2.LevelHard.resources
+C:\Users\Martin\Desktop\961 - Copy\Project\BouncingBall\MindTest2\MindTest2\obj\x86\Release\MindTest2.MindTestMainForm.resources
+C:\Users\Martin\Desktop\961 - Copy\Project\BouncingBall\MindTest2\MindTest2\obj\x86\Release\MindTest2.MediumLevel.resources
+C:\Users\Martin\Desktop\961 - Copy\Project\BouncingBall\MindTest2\MindTest2\obj\x86\Release\MindTest2.Resources.resources
+C:\Users\Martin\Desktop\961 - Copy\Project\BouncingBall\MindTest2\MindTest2\obj\x86\Release\MindTest2.vbproj.GenerateResource.Cache
+C:\Users\Martin\Desktop\961 - Copy\Project\BouncingBall\MindTest2\MindTest2\obj\x86\Release\MindTest2.exe
+C:\Users\Martin\Desktop\961 - Copy\Project\BouncingBall\MindTest2\MindTest2\obj\x86\Release\MindTest2.xml
+C:\Users\Martin\Desktop\961 - Copy\Project\BouncingBall\MindTest2\MindTest2\obj\x86\Release\MindTest2.pdb
+C:\Users\PMG\Desktop\961\Project\BouncingBall\MindTest2\MindTest2\bin\x86\Release\MindTest2.exe.config
+C:\Users\PMG\Desktop\961\Project\BouncingBall\MindTest2\MindTest2\bin\x86\Release\MindTest2.exe
+C:\Users\PMG\Desktop\961\Project\BouncingBall\MindTest2\MindTest2\bin\x86\Release\MindTest2.pdb
+C:\Users\PMG\Desktop\961\Project\BouncingBall\MindTest2\MindTest2\bin\x86\Release\MindTest2.xml
+C:\Users\PMG\Desktop\961\Project\BouncingBall\MindTest2\MindTest2\bin\x86\Release\DatabaseContent.exe
+C:\Users\PMG\Desktop\961\Project\BouncingBall\MindTest2\MindTest2\bin\x86\Release\EntityFramework.dll
+C:\Users\PMG\Desktop\961\Project\BouncingBall\MindTest2\MindTest2\bin\x86\Release\DatabaseContent.pdb
+C:\Users\PMG\Desktop\961\Project\BouncingBall\MindTest2\MindTest2\bin\x86\Release\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\PMG\Desktop\961\Project\BouncingBall\MindTest2\MindTest2\bin\x86\Release\EntityFramework.xml
+C:\Users\PMG\Desktop\961\Project\BouncingBall\MindTest2\MindTest2\obj\x86\Release\MindTest2.vbprojResolveAssemblyReference.cache
+C:\Users\PMG\Desktop\961\Project\BouncingBall\MindTest2\MindTest2\obj\x86\Release\MindTest2.AboutTheTestForm.resources
+C:\Users\PMG\Desktop\961\Project\BouncingBall\MindTest2\MindTest2\obj\x86\Release\MindTest2.EasyLevel.resources
+C:\Users\PMG\Desktop\961\Project\BouncingBall\MindTest2\MindTest2\obj\x86\Release\MindTest2.VeryHardLevel.resources
+C:\Users\PMG\Desktop\961\Project\BouncingBall\MindTest2\MindTest2\obj\x86\Release\MindTest2.LevelHard.resources
+C:\Users\PMG\Desktop\961\Project\BouncingBall\MindTest2\MindTest2\obj\x86\Release\MindTest2.MindTestMainForm.resources
+C:\Users\PMG\Desktop\961\Project\BouncingBall\MindTest2\MindTest2\obj\x86\Release\MindTest2.MediumLevel.resources
+C:\Users\PMG\Desktop\961\Project\BouncingBall\MindTest2\MindTest2\obj\x86\Release\MindTest2.Resources.resources
+C:\Users\PMG\Desktop\961\Project\BouncingBall\MindTest2\MindTest2\obj\x86\Release\MindTest2.vbproj.GenerateResource.Cache
+C:\Users\PMG\Desktop\961\Project\BouncingBall\MindTest2\MindTest2\obj\x86\Release\MindTest2.exe
+C:\Users\PMG\Desktop\961\Project\BouncingBall\MindTest2\MindTest2\obj\x86\Release\MindTest2.xml
+C:\Users\PMG\Desktop\961\Project\BouncingBall\MindTest2\MindTest2\obj\x86\Release\MindTest2.pdb
+H:\961_edited\Project\BouncingBall\MindTest2\MindTest2\bin\x86\Release\MindTest2.exe.config
+H:\961_edited\Project\BouncingBall\MindTest2\MindTest2\bin\x86\Release\MindTest2.exe
+H:\961_edited\Project\BouncingBall\MindTest2\MindTest2\bin\x86\Release\MindTest2.pdb
+H:\961_edited\Project\BouncingBall\MindTest2\MindTest2\bin\x86\Release\MindTest2.xml
+H:\961_edited\Project\BouncingBall\MindTest2\MindTest2\bin\x86\Release\DatabaseContent.exe
+H:\961_edited\Project\BouncingBall\MindTest2\MindTest2\bin\x86\Release\EntityFramework.dll
+H:\961_edited\Project\BouncingBall\MindTest2\MindTest2\bin\x86\Release\DatabaseContent.pdb
+H:\961_edited\Project\BouncingBall\MindTest2\MindTest2\bin\x86\Release\Microsoft.VisualBasic.PowerPacks.xml
+H:\961_edited\Project\BouncingBall\MindTest2\MindTest2\bin\x86\Release\EntityFramework.xml
+H:\961_edited\Project\BouncingBall\MindTest2\MindTest2\obj\x86\Release\MindTest2.vbprojResolveAssemblyReference.cache
+H:\961_edited\Project\BouncingBall\MindTest2\MindTest2\obj\x86\Release\MindTest2.AboutTheTestForm.resources
+H:\961_edited\Project\BouncingBall\MindTest2\MindTest2\obj\x86\Release\MindTest2.EasyLevel.resources
+H:\961_edited\Project\BouncingBall\MindTest2\MindTest2\obj\x86\Release\MindTest2.VeryHardLevel.resources
+H:\961_edited\Project\BouncingBall\MindTest2\MindTest2\obj\x86\Release\MindTest2.LevelHard.resources
+H:\961_edited\Project\BouncingBall\MindTest2\MindTest2\obj\x86\Release\MindTest2.MindTestMainForm.resources
+H:\961_edited\Project\BouncingBall\MindTest2\MindTest2\obj\x86\Release\MindTest2.MediumLevel.resources
+H:\961_edited\Project\BouncingBall\MindTest2\MindTest2\obj\x86\Release\MindTest2.Resources.resources
+H:\961_edited\Project\BouncingBall\MindTest2\MindTest2\obj\x86\Release\MindTest2.vbproj.GenerateResource.Cache
+H:\961_edited\Project\BouncingBall\MindTest2\MindTest2\obj\x86\Release\MindTest2.exe
+H:\961_edited\Project\BouncingBall\MindTest2\MindTest2\obj\x86\Release\MindTest2.xml
+H:\961_edited\Project\BouncingBall\MindTest2\MindTest2\obj\x86\Release\MindTest2.pdb
+C:\Users\Martin\Desktop\961_edited\Project\BouncingBall\MindTest2\MindTest2\bin\x86\Release\MindTest2.exe.config
+C:\Users\Martin\Desktop\961_edited\Project\BouncingBall\MindTest2\MindTest2\bin\x86\Release\MindTest2.exe
+C:\Users\Martin\Desktop\961_edited\Project\BouncingBall\MindTest2\MindTest2\bin\x86\Release\MindTest2.pdb
+C:\Users\Martin\Desktop\961_edited\Project\BouncingBall\MindTest2\MindTest2\bin\x86\Release\MindTest2.xml
+C:\Users\Martin\Desktop\961_edited\Project\BouncingBall\MindTest2\MindTest2\bin\x86\Release\DatabaseContent.exe
+C:\Users\Martin\Desktop\961_edited\Project\BouncingBall\MindTest2\MindTest2\bin\x86\Release\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Martin\Desktop\961_edited\Project\BouncingBall\MindTest2\MindTest2\bin\x86\Release\EntityFramework.dll
+C:\Users\Martin\Desktop\961_edited\Project\BouncingBall\MindTest2\MindTest2\bin\x86\Release\DatabaseContent.pdb
+C:\Users\Martin\Desktop\961_edited\Project\BouncingBall\MindTest2\MindTest2\bin\x86\Release\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Martin\Desktop\961_edited\Project\BouncingBall\MindTest2\MindTest2\bin\x86\Release\EntityFramework.xml
+C:\Users\Martin\Desktop\961_edited\Project\BouncingBall\MindTest2\MindTest2\obj\x86\Release\MindTest2.vbprojResolveAssemblyReference.cache
+C:\Users\Martin\Desktop\961_edited\Project\BouncingBall\MindTest2\MindTest2\obj\x86\Release\MindTest2.AboutTheTestForm.resources
+C:\Users\Martin\Desktop\961_edited\Project\BouncingBall\MindTest2\MindTest2\obj\x86\Release\MindTest2.EasyLevel.resources
+C:\Users\Martin\Desktop\961_edited\Project\BouncingBall\MindTest2\MindTest2\obj\x86\Release\MindTest2.VeryHardLevel.resources
+C:\Users\Martin\Desktop\961_edited\Project\BouncingBall\MindTest2\MindTest2\obj\x86\Release\MindTest2.LevelHard.resources
+C:\Users\Martin\Desktop\961_edited\Project\BouncingBall\MindTest2\MindTest2\obj\x86\Release\MindTest2.MindTestMainForm.resources
+C:\Users\Martin\Desktop\961_edited\Project\BouncingBall\MindTest2\MindTest2\obj\x86\Release\MindTest2.MediumLevel.resources
+C:\Users\Martin\Desktop\961_edited\Project\BouncingBall\MindTest2\MindTest2\obj\x86\Release\MindTest2.Resources.resources
+C:\Users\Martin\Desktop\961_edited\Project\BouncingBall\MindTest2\MindTest2\obj\x86\Release\MindTest2.vbproj.GenerateResource.Cache
+C:\Users\Martin\Desktop\961_edited\Project\BouncingBall\MindTest2\MindTest2\obj\x86\Release\MindTest2.exe
+C:\Users\Martin\Desktop\961_edited\Project\BouncingBall\MindTest2\MindTest2\obj\x86\Release\MindTest2.xml
+C:\Users\Martin\Desktop\961_edited\Project\BouncingBall\MindTest2\MindTest2\obj\x86\Release\MindTest2.pdb
+C:\Users\marti\Desktop\ARHIV_2_58\Project\BouncingBall\MindTest2\MindTest2\obj\x86\Release\MindTest2.vbprojResolveAssemblyReference.cache
+C:\Users\marti\Desktop\ARHIV_2_58\Project\BouncingBall\MindTest2\MindTest2\obj\x86\Release\MindTest2.AboutTheTestForm.resources
+C:\Users\marti\Desktop\ARHIV_2_58\Project\BouncingBall\MindTest2\MindTest2\obj\x86\Release\MindTest2.EasyLevel.resources
+C:\Users\marti\Desktop\ARHIV_2_58\Project\BouncingBall\MindTest2\MindTest2\obj\x86\Release\MindTest2.VeryHardLevel.resources
+C:\Users\marti\Desktop\ARHIV_2_58\Project\BouncingBall\MindTest2\MindTest2\obj\x86\Release\MindTest2.LevelHard.resources
+C:\Users\marti\Desktop\ARHIV_2_58\Project\BouncingBall\MindTest2\MindTest2\obj\x86\Release\MindTest2.MindTestMainForm.resources
+C:\Users\marti\Desktop\ARHIV_2_58\Project\BouncingBall\MindTest2\MindTest2\obj\x86\Release\MindTest2.MediumLevel.resources
+C:\Users\marti\Desktop\ARHIV_2_58\Project\BouncingBall\MindTest2\MindTest2\obj\x86\Release\MindTest2.Resources.resources
+C:\Users\marti\Desktop\ARHIV_2_58\Project\BouncingBall\MindTest2\MindTest2\obj\x86\Release\MindTest2.vbproj.GenerateResource.Cache
+C:\Users\marti\Desktop\ARHIV_2_58\Project\BouncingBall\MindTest2\MindTest2\obj\x86\Release\MindTest2.exe
+C:\Users\marti\Desktop\ARHIV_2_58\Project\BouncingBall\MindTest2\MindTest2\obj\x86\Release\MindTest2.xml
+C:\Users\marti\Desktop\ARHIV_2_58\Project\BouncingBall\MindTest2\MindTest2\obj\x86\Release\MindTest2.pdb
+C:\Users\marti\Desktop\ARHIV_2_58\Project\BouncingBall\MindTest2\MindTest2\bin\x86\Release\MindTest2.exe.config
+C:\Users\marti\Desktop\ARHIV_2_58\Project\BouncingBall\MindTest2\MindTest2\bin\x86\Release\MindTest2.exe
+C:\Users\marti\Desktop\ARHIV_2_58\Project\BouncingBall\MindTest2\MindTest2\bin\x86\Release\MindTest2.pdb
+C:\Users\marti\Desktop\ARHIV_2_58\Project\BouncingBall\MindTest2\MindTest2\bin\x86\Release\MindTest2.xml
+C:\Users\marti\Desktop\ARHIV_2_58\Project\BouncingBall\MindTest2\MindTest2\bin\x86\Release\DatabaseContent.exe
+C:\Users\marti\Desktop\ARHIV_2_58\Project\BouncingBall\MindTest2\MindTest2\bin\x86\Release\EntityFramework.dll
+C:\Users\marti\Desktop\ARHIV_2_58\Project\BouncingBall\MindTest2\MindTest2\bin\x86\Release\DatabaseContent.pdb
+C:\Users\marti\Desktop\ARHIV_2_58\Project\BouncingBall\MindTest2\MindTest2\bin\x86\Release\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\marti\Desktop\ARHIV_2_58\Project\BouncingBall\MindTest2\MindTest2\bin\x86\Release\EntityFramework.xml

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="concentrate_testModel.Store" Alias="Self" Provider="MySql.Data.MySqlClient" ProviderManifestToken="5.6" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/02/edm/ssdl">
+  <EntityContainer Name="concentrate_testModelStoreContainer">
+    <EntitySet Name="users" EntityType="concentrate_testModel.Store.users" store:Type="Tables" Schema="concentrate_test" />
+  </EntityContainer>
+  <EntityType Name="users">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="Username" Type="varchar" Nullable="false" MaxLength="64" />
+    <Property Name="Password" Type="varchar" Nullable="false" MaxLength="64" />
+    <Property Name="Email" Type="varchar" Nullable="false" MaxLength="320" />
+    <Property Name="FirstName" Type="varchar" MaxLength="64" />
+    <Property Name="LastName" Type="varchar" MaxLength="64" />
+  </EntityType>
+</Schema>

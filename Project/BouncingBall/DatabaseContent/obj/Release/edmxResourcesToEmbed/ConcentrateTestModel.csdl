@@ -1,0 +1,262 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="concentrate_testModel" Alias="Self" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2008/09/edm">
+  <EntityType Name="bouncingballscore">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="User_Id" Type="Int32" Nullable="false" />
+    <Property Name="Score" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="user" Relationship="Self.bouncingballscores_ibfk_1" FromRole="bouncingballscores" ToRole="users" />
+  </EntityType>
+  <EntityType Name="bulbtestscore">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="User_Id" Type="Int32" Nullable="false" />
+    <Property Name="ScoreRight" Type="Int32" Nullable="false" />
+    <Property Name="ScoreWrong" Type="Int32" Nullable="false" />
+    <Property Name="ScoreMissed" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="user" Relationship="Self.bulbtestscores_ibfk_1" FromRole="bulbtestscores" ToRole="users" />
+  </EntityType>
+  <EntityType Name="memorytestorderscore">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="User_Id" Type="Int32" Nullable="false" />
+    <Property Name="Score" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="user" Relationship="Self.fk_Permemorytestorder" FromRole="memorytestorderscores" ToRole="users" />
+  </EntityType>
+  <EntityType Name="mindtestscore">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="User_Id" Type="Int32" Nullable="false" />
+    <Property Name="Score" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="user" Relationship="Self.mindtestscores_ibfk_1" FromRole="mindtestscores" ToRole="users" />
+  </EntityType>
+  <EntityType Name="mindtestscoreseasy">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="User_Id" Type="Int32" Nullable="false" />
+    <Property Name="Score" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="user" Relationship="Self.mindtestscoreseasy_ibfk_1" FromRole="mindtestscoreseasy" ToRole="users" />
+  </EntityType>
+  <EntityType Name="mindtestscoreshard">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="User_Id" Type="Int32" Nullable="false" />
+    <Property Name="Score" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="user" Relationship="Self.mindtestscoreshard_ibfk_1" FromRole="mindtestscoreshard" ToRole="users" />
+  </EntityType>
+  <EntityType Name="mindtestscoresmedium">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="User_Id" Type="Int32" Nullable="false" />
+    <Property Name="Score" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="user" Relationship="Self.mindtestscoresmedium_ibfk_1" FromRole="mindtestscoresmedium" ToRole="users" />
+  </EntityType>
+  <EntityType Name="mindtestscoresveryhard">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="User_Id" Type="Int32" Nullable="false" />
+    <Property Name="Score" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="user" Relationship="Self.mindtestscoresveryhard_ibfk_1" FromRole="mindtestscoresveryhard" ToRole="users" />
+  </EntityType>
+  <EntityType Name="reactiontestscore">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="User_Id" Type="Int32" Nullable="false" />
+    <Property Name="Score" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="user" Relationship="Self.reactiontestscores_ibfk_1" FromRole="reactiontestscores" ToRole="users" />
+  </EntityType>
+  <EntityType Name="user">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Username" Type="String" MaxLength="64" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Password" Type="String" MaxLength="64" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Email" Type="String" MaxLength="320" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="FirstName" Type="String" MaxLength="64" FixedLength="false" Unicode="false" />
+    <Property Name="LastName" Type="String" MaxLength="64" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="bouncingballscores" Relationship="Self.bouncingballscores_ibfk_1" FromRole="users" ToRole="bouncingballscores" />
+    <NavigationProperty Name="bulbtestscores" Relationship="Self.bulbtestscores_ibfk_1" FromRole="users" ToRole="bulbtestscores" />
+    <NavigationProperty Name="memorytestorderscores" Relationship="Self.fk_Permemorytestorder" FromRole="users" ToRole="memorytestorderscores" />
+    <NavigationProperty Name="mindtestscores" Relationship="Self.mindtestscores_ibfk_1" FromRole="users" ToRole="mindtestscores" />
+    <NavigationProperty Name="mindtestscoreseasies" Relationship="Self.mindtestscoreseasy_ibfk_1" FromRole="users" ToRole="mindtestscoreseasy" />
+    <NavigationProperty Name="mindtestscoreshards" Relationship="Self.mindtestscoreshard_ibfk_1" FromRole="users" ToRole="mindtestscoreshard" />
+    <NavigationProperty Name="mindtestscoresmediums" Relationship="Self.mindtestscoresmedium_ibfk_1" FromRole="users" ToRole="mindtestscoresmedium" />
+    <NavigationProperty Name="mindtestscoresveryhards" Relationship="Self.mindtestscoresveryhard_ibfk_1" FromRole="users" ToRole="mindtestscoresveryhard" />
+    <NavigationProperty Name="reactiontestscores" Relationship="Self.reactiontestscores_ibfk_1" FromRole="users" ToRole="reactiontestscores" />
+  </EntityType>
+  <Association Name="bouncingballscores_ibfk_1">
+    <End Role="users" Type="Self.user" Multiplicity="1" />
+    <End Role="bouncingballscores" Type="Self.bouncingballscore" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="users">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="bouncingballscores">
+        <PropertyRef Name="User_Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="bulbtestscores_ibfk_1">
+    <End Role="users" Type="Self.user" Multiplicity="1" />
+    <End Role="bulbtestscores" Type="Self.bulbtestscore" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="users">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="bulbtestscores">
+        <PropertyRef Name="User_Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="fk_Permemorytestorder">
+    <End Role="users" Type="Self.user" Multiplicity="1" />
+    <End Role="memorytestorderscores" Type="Self.memorytestorderscore" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="users">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="memorytestorderscores">
+        <PropertyRef Name="User_Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="mindtestscores_ibfk_1">
+    <End Role="users" Type="Self.user" Multiplicity="1" />
+    <End Role="mindtestscores" Type="Self.mindtestscore" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="users">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="mindtestscores">
+        <PropertyRef Name="User_Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="mindtestscoreseasy_ibfk_1">
+    <End Role="users" Type="Self.user" Multiplicity="1" />
+    <End Role="mindtestscoreseasy" Type="Self.mindtestscoreseasy" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="users">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="mindtestscoreseasy">
+        <PropertyRef Name="User_Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="mindtestscoreshard_ibfk_1">
+    <End Role="users" Type="Self.user" Multiplicity="1" />
+    <End Role="mindtestscoreshard" Type="Self.mindtestscoreshard" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="users">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="mindtestscoreshard">
+        <PropertyRef Name="User_Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="mindtestscoresmedium_ibfk_1">
+    <End Role="users" Type="Self.user" Multiplicity="1" />
+    <End Role="mindtestscoresmedium" Type="Self.mindtestscoresmedium" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="users">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="mindtestscoresmedium">
+        <PropertyRef Name="User_Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="mindtestscoresveryhard_ibfk_1">
+    <End Role="users" Type="Self.user" Multiplicity="1" />
+    <End Role="mindtestscoresveryhard" Type="Self.mindtestscoresveryhard" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="users">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="mindtestscoresveryhard">
+        <PropertyRef Name="User_Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="reactiontestscores_ibfk_1">
+    <End Role="users" Type="Self.user" Multiplicity="1" />
+    <End Role="reactiontestscores" Type="Self.reactiontestscore" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="users">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="reactiontestscores">
+        <PropertyRef Name="User_Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="concentrate_testEntities4" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="bouncingballscores" EntityType="Self.bouncingballscore" />
+    <EntitySet Name="bulbtestscores" EntityType="Self.bulbtestscore" />
+    <EntitySet Name="memorytestorderscores" EntityType="Self.memorytestorderscore" />
+    <EntitySet Name="mindtestscores" EntityType="Self.mindtestscore" />
+    <EntitySet Name="mindtestscoreseasies" EntityType="Self.mindtestscoreseasy" />
+    <EntitySet Name="mindtestscoreshards" EntityType="Self.mindtestscoreshard" />
+    <EntitySet Name="mindtestscoresmediums" EntityType="Self.mindtestscoresmedium" />
+    <EntitySet Name="mindtestscoresveryhards" EntityType="Self.mindtestscoresveryhard" />
+    <EntitySet Name="reactiontestscores" EntityType="Self.reactiontestscore" />
+    <EntitySet Name="users" EntityType="Self.user" />
+    <AssociationSet Name="bouncingballscores_ibfk_1" Association="Self.bouncingballscores_ibfk_1">
+      <End Role="users" EntitySet="users" />
+      <End Role="bouncingballscores" EntitySet="bouncingballscores" />
+    </AssociationSet>
+    <AssociationSet Name="bulbtestscores_ibfk_1" Association="Self.bulbtestscores_ibfk_1">
+      <End Role="users" EntitySet="users" />
+      <End Role="bulbtestscores" EntitySet="bulbtestscores" />
+    </AssociationSet>
+    <AssociationSet Name="fk_Permemorytestorder" Association="Self.fk_Permemorytestorder">
+      <End Role="users" EntitySet="users" />
+      <End Role="memorytestorderscores" EntitySet="memorytestorderscores" />
+    </AssociationSet>
+    <AssociationSet Name="mindtestscores_ibfk_1" Association="Self.mindtestscores_ibfk_1">
+      <End Role="users" EntitySet="users" />
+      <End Role="mindtestscores" EntitySet="mindtestscores" />
+    </AssociationSet>
+    <AssociationSet Name="mindtestscoreseasy_ibfk_1" Association="Self.mindtestscoreseasy_ibfk_1">
+      <End Role="users" EntitySet="users" />
+      <End Role="mindtestscoreseasy" EntitySet="mindtestscoreseasies" />
+    </AssociationSet>
+    <AssociationSet Name="mindtestscoreshard_ibfk_1" Association="Self.mindtestscoreshard_ibfk_1">
+      <End Role="users" EntitySet="users" />
+      <End Role="mindtestscoreshard" EntitySet="mindtestscoreshards" />
+    </AssociationSet>
+    <AssociationSet Name="mindtestscoresmedium_ibfk_1" Association="Self.mindtestscoresmedium_ibfk_1">
+      <End Role="users" EntitySet="users" />
+      <End Role="mindtestscoresmedium" EntitySet="mindtestscoresmediums" />
+    </AssociationSet>
+    <AssociationSet Name="mindtestscoresveryhard_ibfk_1" Association="Self.mindtestscoresveryhard_ibfk_1">
+      <End Role="users" EntitySet="users" />
+      <End Role="mindtestscoresveryhard" EntitySet="mindtestscoresveryhards" />
+    </AssociationSet>
+    <AssociationSet Name="reactiontestscores_ibfk_1" Association="Self.reactiontestscores_ibfk_1">
+      <End Role="users" EntitySet="users" />
+      <End Role="reactiontestscores" EntitySet="reactiontestscores" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

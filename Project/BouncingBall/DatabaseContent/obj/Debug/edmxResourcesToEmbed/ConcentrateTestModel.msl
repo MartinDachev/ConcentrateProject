@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2008/09/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="concentrate_testModelStoreContainer" CdmEntityContainer="concentrate_testEntities4">
+    <EntitySetMapping Name="bouncingballscores">
+      <EntityTypeMapping TypeName="concentrate_testModel.bouncingballscore">
+        <MappingFragment StoreEntitySet="bouncingballscores">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="User_Id" ColumnName="User_Id" />
+          <ScalarProperty Name="Score" ColumnName="Score" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="bulbtestscores">
+      <EntityTypeMapping TypeName="concentrate_testModel.bulbtestscore">
+        <MappingFragment StoreEntitySet="bulbtestscores">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="User_Id" ColumnName="User_Id" />
+          <ScalarProperty Name="ScoreRight" ColumnName="ScoreRight" />
+          <ScalarProperty Name="ScoreWrong" ColumnName="ScoreWrong" />
+          <ScalarProperty Name="ScoreMissed" ColumnName="ScoreMissed" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="memorytestorderscores">
+      <EntityTypeMapping TypeName="concentrate_testModel.memorytestorderscore">
+        <MappingFragment StoreEntitySet="memorytestorderscores">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="User_Id" ColumnName="User_Id" />
+          <ScalarProperty Name="Score" ColumnName="Score" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="mindtestscores">
+      <EntityTypeMapping TypeName="concentrate_testModel.mindtestscore">
+        <MappingFragment StoreEntitySet="mindtestscores">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="User_Id" ColumnName="User_Id" />
+          <ScalarProperty Name="Score" ColumnName="Score" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="mindtestscoreseasies">
+      <EntityTypeMapping TypeName="concentrate_testModel.mindtestscoreseasy">
+        <MappingFragment StoreEntitySet="mindtestscoreseasy">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="User_Id" ColumnName="User_Id" />
+          <ScalarProperty Name="Score" ColumnName="Score" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="mindtestscoreshards">
+      <EntityTypeMapping TypeName="concentrate_testModel.mindtestscoreshard">
+        <MappingFragment StoreEntitySet="mindtestscoreshard">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="User_Id" ColumnName="User_Id" />
+          <ScalarProperty Name="Score" ColumnName="Score" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="mindtestscoresmediums">
+      <EntityTypeMapping TypeName="concentrate_testModel.mindtestscoresmedium">
+        <MappingFragment StoreEntitySet="mindtestscoresmedium">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="User_Id" ColumnName="User_Id" />
+          <ScalarProperty Name="Score" ColumnName="Score" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="mindtestscoresveryhards">
+      <EntityTypeMapping TypeName="concentrate_testModel.mindtestscoresveryhard">
+        <MappingFragment StoreEntitySet="mindtestscoresveryhard">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="User_Id" ColumnName="User_Id" />
+          <ScalarProperty Name="Score" ColumnName="Score" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="reactiontestscores">
+      <EntityTypeMapping TypeName="concentrate_testModel.reactiontestscore">
+        <MappingFragment StoreEntitySet="reactiontestscores">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="User_Id" ColumnName="User_Id" />
+          <ScalarProperty Name="Score" ColumnName="Score" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="users">
+      <EntityTypeMapping TypeName="concentrate_testModel.user">
+        <MappingFragment StoreEntitySet="users">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Username" ColumnName="Username" />
+          <ScalarProperty Name="Password" ColumnName="Password" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="FirstName" ColumnName="FirstName" />
+          <ScalarProperty Name="LastName" ColumnName="LastName" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

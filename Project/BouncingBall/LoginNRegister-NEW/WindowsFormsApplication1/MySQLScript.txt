@@ -1,0 +1,10 @@
+﻿CREATE TABLE `users` (
+ `Id` int(11) NOT NULL AUTO_INCREMENT,
+ `Username` varchar(64) COLLATE utf8_bin NOT NULL,
+ `Password` varchar(64) COLLATE utf8_bin NOT NULL,
+ `Email` varchar(320) COLLATE utf8_bin NOT NULL,
+ `FirstName` varchar(64) COLLATE utf8_bin DEFAULT NULL,
+ `LastName` varchar(64) COLLATE utf8_bin DEFAULT NULL,
+ PRIMARY KEY (`Id`),
+ UNIQUE KEY `Username` (`Username`)
+) ENGINE=InnoDB AUTO_INCREMENT=17 DEFAULT CHARSET=utf8 COLLATE=utf8_bin
